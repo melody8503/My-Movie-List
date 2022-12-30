@@ -1,5 +1,7 @@
 # Movie List
 A simple web application for movie fanatic
+![image](https://github.com/melody8503/My-Movie-List/blob/main/movie-list.png) 
+[Demo](https://melody8503.github.io/My-Movie-List/)
 
 ## Features
 - listing movies from movie api
